@@ -18,6 +18,12 @@ body {
       color: #333;
       font-weight: bold;
     }
+    #question {
+      font-size: 48px; /* hoặc kích thước to tùy bạn */
+      font-weight: bold; /* cho đậm thêm nếu muốn */
+      text-align: center; /* căn giữa nếu cần */
+      margin: 20px 0;
+   }
     .container {
       text-align: center;
       padding: 40px;
